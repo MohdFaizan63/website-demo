@@ -19,7 +19,7 @@ This is a simple, clean landing page made using HTML and CSS. It includes a navi
 ## 🚀 How to View
 
 You can view it live here:  
-👉 [[https://your-username.github.io/your-repo-name](https://your-username.github.io/your-repo-name](https://mohdfaizan63.github.io/website-demo/)
+👉 https://mohdfaizan63.github.io/website-demo/
 
 Or run it locally:
 
